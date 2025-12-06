@@ -115,14 +115,15 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+<img width="1920" height="1067" alt="image" src="https://github.com/user-attachments/assets/67933fcf-803d-4496-986b-b8cdb902527c" />
 
-<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/a890af41-4889-40d9-a818-d3bcf82477ee" />
 
 
 
 $ ipcs
 
-<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/1e36c3a8-8fef-4229-be0b-6aa63198171e" />
+<img width="1920" height="1067" alt="image" src="https://github.com/user-attachments/assets/dff44c20-92a1-4e71-8b0f-320d2a208452" />
+
 
 
 
